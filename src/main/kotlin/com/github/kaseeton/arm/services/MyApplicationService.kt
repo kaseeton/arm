@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.kaseeton.arm.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.kaseeton.arm.MyBundle
 
 class MyApplicationService {
 
